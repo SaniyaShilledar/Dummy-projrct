@@ -1,2 +1,2 @@
-# Dummy-projrct
+# Java Simple Program
 Dummy
